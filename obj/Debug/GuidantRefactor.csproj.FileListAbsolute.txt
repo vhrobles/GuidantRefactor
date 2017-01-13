@@ -1,0 +1,6 @@
+c:\users\victor.robles\documents\visual studio 2015\Projects\GuidantRefactor\GuidantRefactor\bin\Debug\GuidantRefactor.exe.config
+c:\users\victor.robles\documents\visual studio 2015\Projects\GuidantRefactor\GuidantRefactor\bin\Debug\GuidantRefactor.exe
+c:\users\victor.robles\documents\visual studio 2015\Projects\GuidantRefactor\GuidantRefactor\bin\Debug\GuidantRefactor.pdb
+c:\users\victor.robles\documents\visual studio 2015\Projects\GuidantRefactor\GuidantRefactor\obj\Debug\GuidantRefactor.csprojResolveAssemblyReference.cache
+c:\users\victor.robles\documents\visual studio 2015\Projects\GuidantRefactor\GuidantRefactor\obj\Debug\GuidantRefactor.exe
+c:\users\victor.robles\documents\visual studio 2015\Projects\GuidantRefactor\GuidantRefactor\obj\Debug\GuidantRefactor.pdb
